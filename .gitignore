@@ -2,6 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+__pycache__
+
+Utils/Test
+.idea/*
+.venv
+.vscode
+*/.idea
 
 # C extensions
 *.so
